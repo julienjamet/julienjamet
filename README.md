@@ -18,13 +18,13 @@ ________________________________________________________________________________
 
 <br>
 
-<img src="https://blog.schawe.me/img/netlify.png" width= "40" height= "40" alt="Netlify logo" title="Netlify"/>==========<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" width= "40" height= "40" alt="Heroku logo" title="Heroku"/>..........<img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" width= "40" height= "40" alt="MongoDB logo" title="MongoDB"/>
+<img src="https://blog.schawe.me/img/netlify.png" width= "40" height= "40" alt="Netlify logo" title="Netlify"/>..........<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" width= "40" height= "40" alt="Heroku logo" title="Heroku"/>..........<img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" width= "40" height= "40" alt="MongoDB logo" title="MongoDB"/>
 
 __________________________________________________________________________________________________________________________
 
 #### 📚 I plan to learn for the next few months :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>==========<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>..........<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
 
 __________________________________________________________________________________________________________________________
 
