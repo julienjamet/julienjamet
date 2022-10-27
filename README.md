@@ -14,7 +14,7 @@ The technologies I use are :
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" width= "40" height= "40" alt="React logo" title="React"/>==========<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "40" height= "40" alt="Sass logo" title="SCSS-Sass"/>==========<img src="https://allvectorlogo.com/img/2016/05/node-js-logo.png" width= "70" height= "40" alt="Node logo" title="Node"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" width= "40" height= "40" alt="React logo" title="React"/>==========<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "40" height= "40" alt="Sass logo" title="SCSS"/>==========<img src="https://allvectorlogo.com/img/2016/05/node-js-logo.png" width= "70" height= "40" alt="Node logo" title="Node"/>
 
 <br>
 
