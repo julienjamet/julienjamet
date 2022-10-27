@@ -2,7 +2,7 @@
 I'm Julien, french web developer who just finished his Openclassrooms training.
 During this training, I built 6 projects that made me progress from a novice level to a fullstack MERN profile.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="Logo."/>![image](https://user-images.githubusercontent.com/99092356/198370981-f3930d2a-a40d-4cf1-b055-1800772f1574.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width= "30" height= "30" alt="Logo."/>!
 
 
 <!--
