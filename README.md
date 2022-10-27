@@ -19,26 +19,4 @@ ________________________________________________________________________________
 
 I plan to learn for the next few months :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>----------<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
-
-
-
-
-
-
-
-
-<!--
-**julienjamet/julienjamet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>==========<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
