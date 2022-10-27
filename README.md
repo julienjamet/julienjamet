@@ -1,8 +1,16 @@
 ### Hi there 👋
 I'm Julien, french web developer who just finished his Openclassrooms training.
-During this training, I built 6 projects that made me progress from a novice level to a fullstack MERN profile.
+During this intense 8 months program, I built 6 projects that made me progress from a novice level to a MERN fullstack profile.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width= "30" height= "30" alt="Logo."/>!
+After working for several years as a technician in water management, I am now looking for my first job as a developer.
+
+The languages I use are :
+- HTML 5 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width= "30" height= "30" alt="Logo."/>
+- CSS 3 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png" width= "30" height= "30" alt="CSS3 logo and wordmark.svg"/> -----> SCSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "30" height= "30" alt="Logo."/>
+
+- JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width= "30" height= "30" alt="Logo."/>
+
+
 
 
 <!--
