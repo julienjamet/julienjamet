@@ -25,3 +25,7 @@ ________________________________________________________________________________
 I plan to learn for the next few months :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>==========<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
+
+__________________________________________________________________________________________________________________________
+
+You can find me on <a href="https://www.linkedin.com/in/julien-jamet34/"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="LinkedIn logo/></a> !
