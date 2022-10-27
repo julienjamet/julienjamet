@@ -12,7 +12,9 @@ The languages I use are :
 
 --LEVEL 2--
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" width= "30" height= "30" alt="Description de l&#39;image React-icon.svg."/>----------<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "30" height= "30" alt="Logo."/>----------<img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" width= "30" height= "30" alt="Description de l&#39;image Node.js logo.svg."/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" width= "30" height= "30" alt="Description de l&#39;image React-icon.svg."/>----------<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "30" height= "30" alt="Logo."/>----------<img src="https://pluspng.com/img-png/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png" width= "30" height= "30" alt="Description de l&#39;image Node.js logo.svg."/>
+
+
 
 
 
