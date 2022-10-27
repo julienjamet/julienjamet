@@ -1,4 +1,4 @@
-# Hi everyone ! 👋
+# Hi everyone !
 __________________________________________________________________________________________________________________________
 
 I'm Julien, french web developer who just finished his Openclassrooms training.
