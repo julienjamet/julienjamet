@@ -17,7 +17,7 @@ The technologies I use are :
 
 I plan to learn :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>----------<img src="https://logodix.com/logo/541959.jpg" width= "40" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>----------<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "40" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
 
 
 
