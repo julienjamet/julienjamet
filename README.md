@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Julien, french web developer who just finished his Openclassrooms training. ![image width="30"](https://user-images.githubusercontent.com/99092356/198380850-0bcd09df-476a-48a5-a003-6917702b13dc.png)
+I'm Julien, french web developer who just finished his Openclassrooms training. <img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/ad3043943c85294dbef5f9fd4657c2d6" width= "40" height= "40" alt="CSS3 logo and wordmark.svg"/>
 
 During this intense 8 months program, I built 6 projects that made me progress from a novice level to a MERN fullstack profile.
 
