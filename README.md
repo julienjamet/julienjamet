@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Julien, french web developer who just finished his <pre><img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/ad3043943c85294dbef5f9fd4657c2d6" width="20" height="20" title="Openclassrooms" alt="CSS3 logo and wordmark.svg"/></pre>training.
+I'm Julien, french web developer who just finished his &#160<img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/ad3043943c85294dbef5f9fd4657c2d6" width="20" height="20" title="Openclassrooms" alt="CSS3 logo and wordmark.svg"/>&#160training.
 
 During this intense 8 months program, I built 6 projects that made me progress from a novice level to a MERN fullstack profile.
 
