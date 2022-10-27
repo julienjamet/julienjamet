@@ -28,4 +28,8 @@ I plan to learn for the next few months :
 
 __________________________________________________________________________________________________________________________
 
-You can find me on <a href="https://www.linkedin.com/in/julien-jamet34/"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="LinkedIn logo" width= "30" height= "30" title="LinkedIn" /></a> !
+You can find me on :
+
+<a href="https://www.linkedin.com/in/julien-jamet34/"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="LinkedIn logo" width= "40" height= "40" title="LinkedIn" /></a>
+
+😉
