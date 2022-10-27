@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi !
 I'm Julien, french web developer who just finished his Openclassrooms training.
 
 During this intense 8 months program, I built 6 projects that made me progress from a novice level to a MERN fullstack profile.
