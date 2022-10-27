@@ -15,6 +15,11 @@ The technologies I use are :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" width= "40" height= "40" alt="Description de l&#39;image React-icon.svg."/>----------<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "40" height= "40" alt="Logo."/>----------<img src="https://allvectorlogo.com/img/2016/05/node-js-logo.png" width= "70" height= "40" alt="Description de l&#39;image Node.js logo.svg."/>
 
+I plan to learn :
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg."/>----------<img src="https://logodix.com/logo/541959.jpg" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg."/>
+
+
 
 
 
