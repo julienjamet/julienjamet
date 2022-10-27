@@ -15,7 +15,9 @@ The technologies I use are :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" width= "40" height= "40" alt="Description de l&#39;image React-icon.svg." title="React"/>----------<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width= "40" height= "40" alt="Logo." title="SCSS-Sass"/>----------<img src="https://allvectorlogo.com/img/2016/05/node-js-logo.png" width= "70" height= "40" alt="Description de l&#39;image Node.js logo.svg." title="Node"/>
 
-I plan to learn :
+
+
+I plan to learn for the next few months :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>----------<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
 
