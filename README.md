@@ -17,8 +17,6 @@ The technologies I use are :
 
 <br>
 <br>
-<br>
-<br>
 
 I plan to learn for the next few months :
 
