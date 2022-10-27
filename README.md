@@ -19,7 +19,7 @@ The technologies I use are :
 
 <br>
 
-<img src="https://mma.prnewswire.com/media/384058/MongoDB_Logo.jpg?p=facebook" width= "80" height= "40" alt="Description de l&#39;image React-icon.svg." title="React"/>
+<img src="https://mma.prnewswire.com/media/384058/MongoDB_Logo.jpg?p=facebook" width= "60" height= "40" alt="Description de l&#39;image React-icon.svg." title="React"/>
 
 __________________________________________________________________________________________________________________________
 
