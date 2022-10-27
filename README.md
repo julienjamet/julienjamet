@@ -1,6 +1,6 @@
 ## Hi everyone ! 👋
 
-I'm Julien, french web developer who just finished his Openclassrooms training.
+I'm Julien, french web developer who just finished his Openclassrooms training. 🥳
 
 During this intense 8 months program, I built 6 projects that made me progress from a novice level to a MERN fullstack profile.
 
@@ -8,7 +8,7 @@ After working for several years as a technician in water management, I am now lo
 
 __________________________________________________________________________________________________________________________
 
-The technologies I use are :
+#### ⚙️⚙️⚙️ The technologies I use are :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width= "40" height= "40" alt="HTML5 logo" title="HTML5"/>==========<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png" width= "40" height= "40" alt="CSS3 logo" title="CSS3"/>==========<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width= "40" height= "40" alt="JS logo" title="JavaScript"/>
 
@@ -22,14 +22,14 @@ The technologies I use are :
 
 __________________________________________________________________________________________________________________________
 
-I plan to learn for the next few months :
+#### 📚📚📚 I plan to learn for the next few months :
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png" width= "40" height= "40" alt="Description de l&#39;image Bootstrap logo.svg." title="Bootstrap"/>==========<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
 
 __________________________________________________________________________________________________________________________
 
-You can find me on :
+#### 🔎 You can find me on :
 
 <a href="https://www.linkedin.com/in/julien-jamet34/"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="LinkedIn logo" width= "40" height= "40" title="LinkedIn" /></a>
 
-😉
+Bye ! 😉
