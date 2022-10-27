@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 The technologies I use are :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width= "40" height= "40" alt="Logo." title="HTML5"/>__________<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png" width= "40" height= "40" alt="CSS3 logo and wordmark.svg" title="CSS3"/>__________<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width= "40" height= "40" alt="Logo." title="JavaScript"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width= "40" height= "40" alt="Logo." title="HTML5"/>==========<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png" width= "40" height= "40" alt="CSS3 logo and wordmark.svg" title="CSS3"/>__________<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width= "40" height= "40" alt="Logo." title="JavaScript"/>
 
 <br>
 
